@@ -3,14 +3,14 @@ let fs = require('fs')
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   
 let info = `
-*HELOU TE INVITO A QUE TE UNAS A LOS GRUPOS PRINCIPALES DE ARES-BOT Y NYMOS*
+*OLAM, TE INVITO A QUE TE UNAS A LOS GRUPOS OFICIALES  DE ARES *
 
 *➤ Grupos oficiales del Bot:*
 *1.-* https://chat.whatsapp.com/FfWCBZMB8BQ0QGlPGsLAnr
 
 *2.-* https://chat.whatsapp.com/DGMQBejz1S229wBKTabu4p
 
-*3.-* https://chat.whatsapp.com/IEeWbt18rLF1KM3View7l2
+*3.-* https://chat.whatsapp.com/K2jwxyOuBWK8E0I2TNIO5b
 
 `.trim() 
 
