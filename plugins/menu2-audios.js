@@ -12,9 +12,9 @@ let { name, limit, exp, banned, lastclaim, registered, regTime, age, level } = g
 let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
 let str = `
-*_ミ💖 Hola ${username} 💖彡_*
+*_ミ Hola ${username} 彡_*
 
-*<MENU DE AUDIOS/>*
+*𝕄𝔼ℕ𝕌 𝔻𝔼 𝔸𝕌𝔻𝕀𝕆𝕊*
 - Escribe las palabras/frases tal como estan, no hace falta poner ningun prefijo (#, ., *, etc) 
 
 ° ඬ⃟🔊 _Quien es tu sempai botsito 7w7_
@@ -38,10 +38,8 @@ let str = `
 ° ඬ⃟🔊 _Viernes_
 ° ඬ⃟🔊 _Baneado_
 ° ඬ⃟🔊 _Sexo_
-° ඬ⃟🔊 _Hola_
 ° ඬ⃟🔊 _Un pato_
 ° ඬ⃟🔊 _Nyanpasu_
-° ඬ⃟🔊 _Te amo_
 ° ඬ⃟🔊 _Yamete_
 ° ඬ⃟🔊 _Bañate_
 ° ඬ⃟🔊 _Es puto_
@@ -52,10 +50,9 @@ let str = `
 ° ඬ⃟🔊 _Siuuu_
 ° ඬ⃟🔊 _Rawr_
 ° ඬ⃟🔊 _UwU_
-° ඬ⃟🔊 _:c_
 ° ඬ⃟🔊 _a_
 
-*_「 𝙏͚͜͝͠𝙝͚͜͝͠𝙚͚͜͝͠ ͚͜͝͠𝙎͚͜͝͠𝙝͚͜͝͠𝙖͚͜͝͠𝙙͚͜͝͠𝙤͚͜͝͠𝙬͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙧͚͜͝͠𝙤͚͜͝͠𝙠͚͜͝͠𝙚͚͜͝͠𝙧͚͜͝͠𝙨͚͜͝͠ ͚͜͝͠-͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙤͚͜͝͠𝙩͚͜͝͠ ͚͜͝͠  」_*`.trim()
+*_「 𝑨  𝑹  𝑬  𝑺 🕷️⃟⃥✞︎⸸³³³ 」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
 }}
