@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   let chat = global.DATABASE._data.chats[m.chat]
   if (!chat.isBanned) return m.reply('*Este chat no está prohibido!!*')
   chat.isBanned = false
-  m.reply('*✅ Listo.. chat desbaneado!*')
+  m.reply('*✅ Listo.. chat desbaneado por Ares!*')
 }
 handler.command = /^unbanchat2$/i
 handler.rowner = true
