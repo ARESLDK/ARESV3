@@ -59,7 +59,7 @@ global.packname = '©'
 global.author = '© ƛ  Ʀ  Є  Ƨ  🕷️⃟⃥✞⸸³³³'
 
 
-global.wm = '© ƛ  Ʀ  Є  Ƨ 🕷️⃟⃥✞⸸³³³'
+global.wm = '*© ƛ  Ʀ  Є  Ƨ 🕷️⃟⃥✞⸸³³³*'
 global.wait = '*Espere un momento..*'
 
 
