@@ -42,7 +42,7 @@ function handler(m, { groupMetadata }) {
 *_7.- 🦌${toM(g)}👌_*
 *_8.- 🦌${toM(h)}👌_*
 *_9.- 🦌${toM(i)}👌_*
-*_10.- 🦌${toM(j)}🫥_*`, null, {
+*_10.- 🦌${toM(j)}🦌_*`, null, {
         contextInfo: {
             mentionedJid: [a, b, c, d, e, f, g, h, i, j]
         }
