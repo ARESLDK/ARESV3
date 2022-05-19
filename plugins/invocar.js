@@ -13,7 +13,7 @@ let vn = './media/Invocar.mp3'
 let users = (await conn.groupMetadata(m.chat)).participants.map(u => u.jid)
 let pesan = args.join` `
 let oi = `*MENSAJE:* ${pesan}`
-let hmm = `*⺀I N V O C A N D O - G R U P O⺀*\n\n`
+let hmm = `*𓅓 I N V O C A N D O - G R U P O 𓅓*\n\n`
 let duh = `└\n\n*▌│█║▌║▌║║▌║▌║▌║█*` 
 var teks = `${oi}\n\n❏\n`
 for (let admon of groupMembers) { teks += `┣➥ @${admon.jid.split('@')[0]}\n`} mentions(hmm+teks+duh, users, true,{ contextInfo: { mentionedJid: users } })
