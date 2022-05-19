@@ -31,18 +31,18 @@ function handler(m, { groupMetadata }) {
     let j
     do j = ps[Fl(R() * ps.length)]
     while (b === a)
-    m.reply(`*_😏TOP L@S MAS PAJER@S DEL GRUPO💦:_*
+    m.reply(`*_😈TOP L@S MAS PAJER@S DEL GRUPO💦:_*
     
-*_1.- ${toM(a)}😏💦_*
-*_2.- ${toM(b)}😏💦_*
-*_3.- ${toM(c)}😏💦_*
-*_4.- ${toM(d)}😏💦_*
-*_5.- ${toM(e)}😏💦_*
-*_6.- ${toM(f)}😏💦_*
-*_7.- ${toM(g)}😏💦_*
-*_8.- ${toM(h)}😏💦_*
-*_9.- ${toM(i)}😏💦_*
-*_10.- ${toM(j)}😏💦_*`, null, {
+*_1.- ${toM(a)}💦_*
+*_2.- ${toM(b)}💦_*
+*_3.- ${toM(c)}💦_*
+*_4.- ${toM(d)}💦_*
+*_5.- ${toM(e)}💦_*
+*_6.- ${toM(f)}💦_*
+*_7.- ${toM(g)}💦_*
+*_8.- ${toM(h)}💦_*
+*_9.- ${toM(i)}💦_*
+*_10.- ${toM(j)}💦_*`, null, {
         contextInfo: {
             mentionedJid: [a, b, c, d, e, f, g, h, i, j]
         }
