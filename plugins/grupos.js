@@ -8,9 +8,9 @@ let info = `
 *➤ Grupos oficiales del Bot:*
 *1.-* https://chat.whatsapp.com/FfWCBZMB8BQ0QGlPGsLAnr
 
-*2.-* https://chat.whatsapp.com/DGMQBejz1S229wBKTabu4p
+*2.-* https://chat.whatsapp.com/K2jwxyOuBWK8E0I2TNIO5b
 
-*3.-* https://chat.whatsapp.com/K2jwxyOuBWK8E0I2TNIO5b
+*3.-* https://chat.whatsapp.com/IEeWbt18rLF1KM3View7l2
 
 `.trim() 
 
