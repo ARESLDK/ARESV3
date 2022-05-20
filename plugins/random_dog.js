@@ -7,7 +7,7 @@ let handler  = async (m, { conn, text }) => {
     let json = await res.json()
     if (json.status) throw json
     let caption = `
-©The Shadow Brokers - Bot
+©乂 𝐀𝐑𝐄𝐒 乂 - Bot
 `.trim()
     conn.sendFile(m.chat, json.url, 'dog.jpg', caption, m)
    } catch (e) {
