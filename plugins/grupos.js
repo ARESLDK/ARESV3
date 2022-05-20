@@ -14,7 +14,7 @@ let info = `
 
 `.trim() 
 
-conn.sendMessage(m.chat, info, MessageType.text, { quoted: { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net', fromMe: false }, message: { "imageMessage": { "mimetype": "image/jpeg", "caption": '🔥 乂 𝐀𝐑𝐄𝐒 乂 🔥', "jpegThumbnail": fs.readFileSync(`./Menu2.jpg`)}}}})}
+conn.sendMessage(m.chat, info, MessageType.text, { quoted: { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net', fromMe: false }, message: { "imageMessage": { "mimetype": "image/jpeg", "caption": '🔥 乂 𝐀 𝐑 𝐄 𝐒 乂 🔥', "jpegThumbnail": fs.readFileSync(`./Menu2.jpg`)}}}})}
 
 handler.command = /^(grupos|gruposofc|gruposofc)$/i
 module.exports = handler
