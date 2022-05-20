@@ -28,7 +28,6 @@ let str = `
 ┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}grupos_
-┣ ඬ⃟ℹ️ _${usedPrefix}instalarbot_
 ┣ ඬ⃟ℹ️ _${usedPrefix}menusimple_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menuaudios_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
