@@ -69,7 +69,7 @@ let menu =`
 ╠ ${usedPrefix}doxear *@tag / nombre*
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
-═════════════════════
+════════════════════
 
    *𝔻𝔼𝔸ℂ𝔸ℝ𝔾𝔸𝕊*
 
@@ -102,7 +102,7 @@ let menu =`
 ╠ ${usedPrefix}twvid *link de video de twitter*
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
-═════════════════════
+════════════════════
 
     *𝔾𝔼𝕊𝕋𝕀𝕆ℕ 𝔻𝔼 𝔾ℝ𝕌ℙ𝕆𝕊* 
 
@@ -153,11 +153,11 @@ let menu =`
 ╠ 🧧 _${usedPrefix}stickerfilter_
 ╠ 🧧 _${usedPrefix}trigger *@tag*_
 ╠ 🧧 _${usedPrefix}mp3 *responde a un video*_
-╠ 🧧 _${usedPrefix}img *responde a un sticker*_
-╠ 🧧 _${usedPrefix}blur *responde a una imagen*_
-╠ 🧧 _${usedPrefix}swm *link de imagen de google*_
-╠ 🧧 _${usedPrefix}gif *responde a un sticker/video*_
-╠ 🧧 _${usedPrefix}tovideo *responde a una nota de voz*_
+╠ _${usedPrefix}img *responde a un sticker*_
+╠ _${usedPrefix}blur *responde a una imagen*_
+╠ _${usedPrefix}swm *link de imagen de google*_
+╠ _${usedPrefix}gif *responde a sticker/video*_
+
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
 ═════════════════════
@@ -204,7 +204,7 @@ let menu =`
 ╠ ඬ⃟👾 _${usedPrefix}traducir es *texto*_
 ╠ ඬ⃟👾 _${usedPrefix}zodiac *AAAA MM DD*_
 ╠ ඬ⃟👾 _${usedPrefix}readmore *texto1| texto2*_
-╠ ඬ⃟👾 _${usedPrefix}calc *expresión matemática*_ 
+╠ _${usedPrefix}calc *expresión matemática*_ 
 ╠ _${usedPrefix}spamwa *numero|texto|cantidad*_
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
@@ -216,8 +216,9 @@ let menu =`
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
 ═════════════════════
-*𝔼𝔽𝔼ℂ𝕋𝕆𝕊- ℕ𝕆𝕋𝔸𝕊 𝔻𝔼 𝕍𝕆ℤ 𝕐 𝔸𝕌𝔻𝕀𝕆𝕊*
- Responde a un audio o nota de voz
+*𝔼𝔽𝔼ℂ𝕋𝕆𝕊- ℕ𝕆𝕋𝔸𝕊 𝔻𝔼 𝕍𝕆ℤ* 
+*𝕐 𝔸𝕌𝔻𝕀𝕆𝕊*
+Responde a un audio o nota de voz
 
 ╠ 🎤 _${usedPrefix}bass_
 ╠ 🎤 _${usedPrefix}deep_
