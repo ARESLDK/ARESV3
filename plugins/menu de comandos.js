@@ -16,16 +16,17 @@ let username = conn.getName(who)
 let menu =`
 ══════ ×㊄㊅㊆× ═══════
 
-  *⬧⃤    ᴳᵒᵈ𝑨 𝑹 𝑬 𝑺    ⬧⃤ * 
-╚════                   ════╝
+  *⬧⃤    ᴳᵒᵈ𝑨 𝑹 𝑬 𝑺       ⬧⃤ *
+╚════                     ════╝
      
 ◤*𝗛ola, ${username}!!*◢
 
-        *BIENVENIDO*
+         *BIENVENIDO*🔥
  ═══════ ═══════ ═══════ 
+ 
 *Preciona el boton "menu simple"para ver el*:
 
-   *𝕄𝔼ℕ𝕌 ℂ𝕆𝕄ℙ𝕃𝔼𝕋𝕆*
+      *𝕄𝔼ℕ𝕌 ℂ𝕆𝕄ℙ𝕃𝔼𝕋𝕆*
 
 𝑁𝑦𝑚𝑜𝑠♔︎
 ▌│█║▌║▌│█║║║▌║▌║█│`.trim()
