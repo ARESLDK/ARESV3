@@ -24,49 +24,49 @@ let menu =`
 
 
      *𝕄𝔼ℕ𝕌 𝔻𝔼 © 乂 𝐀𝐑𝐄𝐒 乂*
-══════════════════════
+═════════════════════
     *𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ*
 
 ╠ ඬ⃟ℹ️️ _${usedPrefix}infobot_
 ╠ ඬ⃟ℹ️ _¿Qué es un Bot?_
-╠ ඬ⃟👻 _${usedPrefix}owner_(CREADOR)
+╠ ඬ⃟👻 _${usedPrefix}owner_(creador)
 ═════════════════════
       *𝕋𝕆ℙ'𝕊 /*
 
-╠ 🎖️ .${usedPrefix}top10gays
-╠ 🎖️ .${usedPrefix}toplind@s
-╠ 🎖️ .${usedPrefix}topput@s
-╠ 🎖️ .${usedPrefix}toppajer@s
-╠ 🎖️ .${usedPrefix}topotakus
+╠ 🎖️ ${usedPrefix}top10gays
+╠ 🎖️ ${usedPrefix}toplind@s
+╠ 🎖️ ${usedPrefix}topput@s
+╠ 🎖️ ${usedPrefix}toppajer@s
+╠ 🎖️ ${usedPrefix}topotakus
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
 ═════════════════════
      *𝕁𝕌𝔼𝔾𝕆𝕊*
 
-╠ .${usedPrefix}math *modo*
-╠ .${usedPrefix}ttt *nombre del la sala*
-╠ .${usedPrefix}delttt *nombre del la sala*
-╠ .${usedPrefix}2gay *@tag*
-╠ .${usedPrefix}gay *@tag / nombre*
-╠ .${usedPrefix}lesbi *@tag / nombre*
-╠ .${usedPrefix}pajero *@tag / nombre*
-╠ .${usedPrefix}pajera *@tag / nombre*
-╠ .${usedPrefix}puta *@tag / nombre*
-╠ .${usedPrefix}puto *@tag / nombre*
-╠ .${usedPrefix}rata *@tag / nombre*
-╠ .${usedPrefix}manco *@tag / nombre*
-╠ .${usedPrefix}manca *@tag / nombre*
-╠ .${usedPrefix}formarpareja
-╠ .${usedPrefix}dado
-╠ .${usedPrefix}simsimi *texto*
-╠ .${usedPrefix}formartrio
-╠ .${usedPrefix}love *@tag / nombre*
-╠ .${usedPrefix}amigorandom
-╠ .${usedPrefix}slot *cantidad*
-╠ .${usedPrefix}ppt *piedra / papel / tijera*
-╠ .${usedPrefix}prostituta *@tag / nombre*
-╠ .${usedPrefix}prostituto *@tag / nombre*
-╠ .${usedPrefix}doxear *@tag / nombre*
+╠ ${usedPrefix}math *modo*
+╠ ${usedPrefix}ttt *nombre del la sala*
+╠ ${usedPrefix}delttt *nombre del la sala*
+╠ ${usedPrefix}2gay *@tag*
+╠ ${usedPrefix}gay *@tag / nombre*
+╠ ${usedPrefix}lesbi *@tag / nombre*
+╠ ${usedPrefix}pajero *@tag / nombre*
+╠ ${usedPrefix}pajera *@tag / nombre*
+╠ ${usedPrefix}puta *@tag / nombre*
+╠ ${usedPrefix}puto *@tag / nombre*
+╠ ${usedPrefix}rata *@tag / nombre*
+╠ ${usedPrefix}manco *@tag / nombre*
+╠ ${usedPrefix}manca *@tag / nombre*
+╠ ${usedPrefix}formarpareja
+╠ ${usedPrefix}dado
+╠ ${usedPrefix}simsimi *texto*
+╠ ${usedPrefix}formartrio
+╠ ${usedPrefix}love *@tag / nombre*
+╠ ${usedPrefix}amigorandom
+╠ ${usedPrefix}slot *cantidad*
+╠ ${usedPrefix}ppt *piedra / papel / tijera*
+╠ ${usedPrefix}prostituta *@tag / nombre*
+╠ ${usedPrefix}prostituto *@tag / nombre*
+╠ ${usedPrefix}doxear *@tag / nombre*
 
 ◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
 ═══════════════════════
