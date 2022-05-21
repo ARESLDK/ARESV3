@@ -16,20 +16,20 @@ let username = conn.getName(who)
 let menu =`
 ══════ ×㊄㊅㊆× ═══════
 
-𒈞 *⬧⃤   ƛ  Ʀ  Є  Ƨ  ⬧⃤ * 𒈞
+𒈞  *⬧⃤   ƛ  Ʀ  Є  Ƨ  ⬧⃤ *  𒈞
 
 ══════ ×㊄㊅㊆× ═══════
  
  *✨𝗛ola, ${username}!!*
 
 
-      𝕄𝔼ℕ𝕌 © 乂 𝐀𝐑𝐄𝐒 乂
+     *𝕄𝔼ℕ𝕌 𝔻𝔼 © 乂 𝐀𝐑𝐄𝐒 乂*
 ══════════════════════
     *𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ*
 
 ╠ ඬ⃟ℹ️️ _${usedPrefix}infobot_
 ╠ ඬ⃟ℹ️ _¿Qué es un Bot?_
-╠ ඬ⃟👻 _${usedPrefix}owner_
+╠ ඬ⃟👻 _${usedPrefix}owner_(CREADOR)
 ═════════════════════
       *𝕋𝕆ℙ'𝕊 /*
 
