@@ -307,7 +307,7 @@ Responde a un audio o nota de voz
 ╠ ඬ⃟👑 _${usedPrefix}disable *autoread*_
 ║▌│█║▌│ █║▌│█│║▌║
 
-⬧⃤   *ᴳᵒᵈ🅐̣̣̣ 🅡̣̣̣ 🅔̣̣̣ 🅢̣̣̣࿐*  ⬧⃤  
+⬧⃤   *ᴳᵒᵈ🅐̣̣̣ 🅡̣̣̣ 🅔̣̣̣ 🅢̣̣̣࿐*  ⬧⃤  x 𝑁𝑦𝑚𝑜𝑠♔︎ 
 `.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
