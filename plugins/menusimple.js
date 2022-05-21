@@ -14,9 +14,9 @@ let username = conn.getName(who)
 let str = `
 ══════ ×㊄㊅㊆× ══════
 
-༒ ☹︎  𝑨  𝑹  𝑬  §  ☺︎︎ ༒︎
+   ༒ ☹︎  𝑨  𝑹  𝑬  §  ☺︎︎ ༒︎
 
-╚════            ════╝
+╚════               ════╝
 
  *◤✨𝗛ola, ${username}!◢*
  
@@ -32,12 +32,12 @@ let str = `
 ═════════════════════
       *ℂℝ𝔼𝔸𝔻𝕆ℝ*
 
-╠ ඬ⃟👻 _${usedPrefix}owner_
+╠ ඬ⃟👻 ${usedPrefix}owner
 
 ═════════════════════
       *𝕋𝕆ℙ'𝕊 /*
-╠ 🎖️ ${usedPrefix}top10gays
-╠ 🎖️ ${usedPrefix}toplind@s
+╠ 🎖️ .${usedPrefix}top10gays
+╠ 🎖️ {usedPrefix}toplind@s
 ╠ 🎖️ ${usedPrefix}topput@s
 ╠ 🎖️ ${usedPrefix}toppajer@s
 ╠ 🎖️ ${usedPrefix}topotakus
