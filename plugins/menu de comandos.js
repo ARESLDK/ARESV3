@@ -16,14 +16,14 @@ let username = conn.getName(who)
 let menu =`
 ══════ ×㊄㊅㊆× ═══════
 
-𒈞 *⬧⃤ ✘  ƛ Ʀ Є Ƨ  ✘⬧⃤  *𒈞
+𒈞 *⬧⃤ ✘  ƛ Ʀ Є Ƨ  ✘⬧⃤ * 𒈞
 
 ══════ ×㊄㊅㊆× ═══════
  
 ║➤ *✨𝗛ola, ${username}!!*
 
    𝕄𝔼ℕ𝕌 © 乂 𝐀𝐑𝐄𝐒 乂
-◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+   
 ═══════════════════════
     *𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ*
 
@@ -35,8 +35,8 @@ let menu =`
      *ℝ𝔼ℙ𝕆ℝ𝕋𝔸ℝ 𝔽𝔸𝕃𝕃𝕆𝕊*
 Reporta cualquier comando que falle para poder solucionarlo
 
-╠ .${usedPrefix}bug *comando con fallas*
-╠ .${usedPrefix}report *comando con fallas*
+╠ ${usedPrefix}bug *comando con fallas*
+╠ ${usedPrefix}report *comando con fallas*
 ═══════════════════════
       *𝕋𝕆ℙ'𝕊 /*
 
