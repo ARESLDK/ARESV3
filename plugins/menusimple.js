@@ -14,16 +14,16 @@ let username = conn.getName(who)
 let str = `
 ══════ ×㊄㊅㊆× ══════
 
-   ༒ ☹︎  𝑨  𝑹  𝑬  §  ☺︎︎ ༒︎
+     ༒ ☹︎  𝑨  𝑹  𝑬  §  ☺︎︎ ༒︎
 
-╚════               ════╝
+╚════                  ════╝
 
  *◤✨𝗛ola, ${username}!◢*
  
  *𝕄𝔼ℕ𝕌 𝔻𝔼 © 乂 𝐀𝐑𝐄𝐒 乂*
 ═════════════════════
     *𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ*
-╠ ඬ⃟ℹ️️ _${usedPrefix}infobot_
+╠ ඬ⃟ℹ️️  ${usedPrefix}infobot
 ╠ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
 ╠ ඬ⃟ℹ️ _${usedPrefix}estado_
 ╠ ඬ⃟ℹ️ _¿Qué es un Bot?_
@@ -36,8 +36,8 @@ let str = `
 
 ═════════════════════
       *𝕋𝕆ℙ'𝕊 /*
-╠ 🎖️ .${usedPrefix}top10gays
-╠ 🎖️ {usedPrefix}toplind@s
+╠ 🎖️ ${usedPrefix}top10gays
+╠ 🎖️ ${usedPrefix}toplind@s
 ╠ 🎖️ ${usedPrefix}topput@s
 ╠ 🎖️ ${usedPrefix}toppajer@s
 ╠ 🎖️ ${usedPrefix}topotakus
