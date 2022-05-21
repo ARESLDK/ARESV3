@@ -16,228 +16,299 @@ let str = `
 
 ༒ ☹︎  𝑨  𝑹  𝑬  §  ☺︎︎ ༒︎
 
-▲────────◇◆◇────────▲
+╚════            ════╝
 
- *✨𝗛ola, ${username}!!*
+ *◤✨𝗛ola, ${username}!◢*
+ 
+ *𝕄𝔼ℕ𝕌 𝔻𝔼 © 乂 𝐀𝐑𝐄𝐒 乂*
+═════════════════════
+    *𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ*
+╠ ඬ⃟ℹ️️ _${usedPrefix}infobot_
+╠ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
+╠ ඬ⃟ℹ️ _${usedPrefix}estado_
+╠ ඬ⃟ℹ️ _¿Qué es un Bot?_
 
-  *𓂀 𝕄𝔼ℕ𝕌 𝕊𝕀𝕄ℙ𝕃𝔼 𓂀*
-  
-┣ ඬ⃟ℹ️️ _${usedPrefix}sc_
-┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
-┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
-┣ ඬ⃟ℹ️️ _${usedPrefix}grupos_
-┣ ඬ⃟ℹ️ _${usedPrefix}menusimple_
-┣ ඬ⃟ℹ️️ _${usedPrefix}menuaudios_
-┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
-┣ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
-┣ ඬ⃟ℹ️ _${usedPrefix}estado_
-┣ ඬ⃟ℹ️ _Bot_
-┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
-┣ ඬ⃟ℹ️ _Codigos para audios_
-┣ ඬ⃟ℹ️ _Términos y condiciones_
-┣ ඬ⃟📬 _${usedPrefix}bug_
-┣ ඬ⃟📬 _${usedPrefix}report_
-┣ ඬ⃟🤖 _${usedPrefix}join_ 
-┣ ඬ⃟🤖 _${usedPrefix}bots_
-┣ ඬ⃟🎖️ _${usedPrefix}top10gays_
-┣ ඬ⃟🎖️ _${usedPrefix}toplind@s_
-┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
-┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
-┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
-┣ ඬ⃟👻 _${usedPrefix}owner_
-┣ ඬ⃟🕹 _${usedPrefix}math_
-┣ ඬ⃟🎮 _${usedPrefix}ttt_
-┣ ඬ⃟🕹 _${usedPrefix}delttt_
-┣ ඬ⃟🎮 _${usedPrefix}2gay_
-┣ ඬ⃟🕹 _${usedPrefix}gay_
-┣ ඬ⃟🎮 _${usedPrefix}lesbi_
-┣ ඬ⃟🕹 _${usedPrefix}pajero_
-┣ ඬ⃟🎮 _${usedPrefix}pajera_
-┣ ඬ⃟🕹 _${usedPrefix}puta_
-┣ ඬ⃟🎮 _${usedPrefix}puto_
-┣ ඬ⃟🕹 _${usedPrefix}rata_
-┣ ඬ⃟🎮 _${usedPrefix}manco_
-┣ ඬ⃟🕹 _${usedPrefix}manca_
-┣ ඬ⃟🎮 _${usedPrefix}formarpareja_
-┣ ඬ⃟🕹 _${usedPrefix}dado_
-┣ ඬ⃟🎮 _${usedPrefix}simsimi_
-┣ ඬ⃟🕹 _${usedPrefix}formartrio_
-┣ ඬ⃟🎮 _${usedPrefix}love_
-┣ ඬ⃟🕹 _${usedPrefix}amigorandom_
-┣ ඬ⃟🎮 _${usedPrefix}slot_
-┣ ඬ⃟🕹 _${usedPrefix}ppt_
-┣ ඬ⃟🎮 _${usedPrefix}prostituta_
-┣ ඬ⃟🕹 _${usedPrefix}prostituto_
-┣ ඬ⃟🎮 _${usedPrefix}doxear_
-┣ ඬ⃟📥 _${usedPrefix}imagen_
-┣ ඬ⃟📥 _${usedPrefix}ytsearch_
-┣ ඬ⃟📥 _${usedPrefix}dlaudio_
-┣ ඬ⃟📥 _${usedPrefix}dlvid_
-┣ ඬ⃟📥 _${usedPrefix}ytmp3_
-┣ ඬ⃟📥 _${usedPrefix}ytmp4_
-┣ ඬ⃟📥 _${usedPrefix}ytmp4.2_
-┣ ඬ⃟📥 _${usedPrefix}play_
-┣ ඬ⃟📥 _${usedPrefix}play2_
-┣ ඬ⃟📥 _${usedPrefix}play3_
-┣ ඬ⃟📥 _${usedPrefix}play4_
-┣ ඬ⃟📥 _${usedPrefix}letra_
-┣ ඬ⃟📥 _${usedPrefix}google_
-┣ ඬ⃟📥 _${usedPrefix}googlef_
-┣ ඬ⃟📥 _${usedPrefix}wikipedia_
-┣ ඬ⃟📥 _${usedPrefix}pinterestvideo_
-┣ ඬ⃟📥 _${usedPrefix}tiktok_
-┣ ඬ⃟📥 _${usedPrefix}acortar_
-┣ ඬ⃟📥 _${usedPrefix}pinterest_
-┣ ඬ⃟📥 _${usedPrefix}xnxx_
-┣ ඬ⃟📥 _${usedPrefix}xnxxsearch_
-┣ ඬ⃟📥 _${usedPrefix}ssweb_
-┣ ඬ⃟📥 _${usedPrefix}igstory_
-┣ ඬ⃟📥 _${usedPrefix}igstalk_
-┣ ඬ⃟📥 _${usedPrefix}animeinfo_
-┣ ඬ⃟📥 _${usedPrefix}twvid_
-┣ ඬ⃟💎 _${usedPrefix}admins_ 
-┣ ඬ⃟💎 _${usedPrefix}añadir_ 
-┣ ඬ⃟💎 _${usedPrefix}sacar_ 
-┣ ඬ⃟💎 _${usedPrefix}save_
-┣ ඬ⃟💎 _${usedPrefix}daradmin_
-┣ ඬ⃟💎 _${usedPrefix}quitaradmin_
-┣ ඬ⃟💎 _${usedPrefix}grupo abrir/cerrar_
-┣ ඬ⃟💎 _${usedPrefix}enable nsfw_
-┣ ඬ⃟💎 _${usedPrefix}disable nsfw_
-┣ ඬ⃟💎 _${usedPrefix}enable welcome_
-┣ ඬ⃟💎 _${usedPrefix}disable welcome_
-┣ ඬ⃟💎 _${usedPrefix}enable antilink_
-┣ ඬ⃟💎 _${usedPrefix}disable antilink_
-┣ ඬ⃟💎 _${usedPrefix}enable antilink2_
-┣ ඬ⃟💎 _${usedPrefix}disable antilink2_
-┣ ඬ⃟💎 _${usedPrefix}enable delete_
-┣ ඬ⃟💎 _${usedPrefix}disable  delete_ 
-┣ ඬ⃟💎 _${usedPrefix}link_
-┣ ඬ⃟💎 _${usedPrefix}notificar_
-┣ ඬ⃟💎 _${usedPrefix}setname_
-┣ ඬ⃟💎 _${usedPrefix}setdesc_
-┣ ඬ⃟💎 _${usedPrefix}infogrupo_
-┣ ඬ⃟💎 _${usedPrefix}invocar_
-┣ ඬ⃟💎 _${usedPrefix}del_
-┣ ඬ⃟💎 _${usedPrefix}fantasmas_
-┣ ඬ⃟💎 _${usedPrefix}banchat_
-┣ ඬ⃟💎 _${usedPrefix}unbanchat_
-┣ ඬ⃟🧧 _${usedPrefix}s_
-┣ ඬ⃟🧧 _${usedPrefix}sticker_
-┣ ඬ⃟🧧 _${usedPrefix}semoji_
-┣ ඬ⃟🧧 _${usedPrefix}wasted_
-┣ ඬ⃟🧧 _${usedPrefix}stonks_
-┣ ඬ⃟🧧 _${usedPrefix}trash_
-┣ ඬ⃟🧧 _${usedPrefix}rainbow_
-┣ ඬ⃟🧧 _${usedPrefix}circle_
-┣ ඬ⃟🧧 _${usedPrefix}trigger_
-┣ ඬ⃟🧧 _${usedPrefix}stickermaker_
-┣ ඬ⃟🧧 _${usedPrefix}attp_
-┣ ඬ⃟🧧 _${usedPrefix}style_
-┣ ඬ⃟🧧 _${usedPrefix}attp2_
-┣ ඬ⃟🧧 _${usedPrefix}stickerfilter_
-┣ ඬ⃟🧧 _${usedPrefix}mp3_
-┣ ඬ⃟🧧 _${usedPrefix}img_
-┣ ඬ⃟🧧 _${usedPrefix}blur_
-┣ ඬ⃟🧧 _${usedPrefix}swm_
-┣ ඬ⃟🧧 _${usedPrefix}gif_
-┣ ඬ⃟🧧 _${usedPrefix}tovideo_
-┣ ඬ⃟👾 _${usedPrefix}frase_
-┣ ඬ⃟👾 _${usedPrefix}futbol_
-┣ ඬ⃟👾 _${usedPrefix}Messi_
-┣ ඬ⃟👾 _${usedPrefix}animal_
-┣ ඬ⃟👾 _${usedPrefix}meme_
-┣ ඬ⃟👾 _${usedPrefix}meme2_
-┣ ඬ⃟👾 _${usedPrefix}meme3_
-┣ ඬ⃟👾 _${usedPrefix}cat_
-┣ ඬ⃟👾 _${usedPrefix}dog_
-┣ ඬ⃟👾 _${usedPrefix}pikachu_
-┣ ඬ⃟👾 _${usedPrefix}waifu_
-┣ ඬ⃟👾 _${usedPrefix}blackpink_
-┣ ඬ⃟👾 _${usedPrefix}reto_
-┣ ඬ⃟👾 _${usedPrefix}verdad_
-┣ ඬ⃟👾 _${usedPrefix}imagenrandom_
-┣ ඬ⃟👾 _${usedPrefix}neko_
-┣ ඬ⃟👾 _${usedPrefix}lolivid_
-┣ ඬ⃟👾 _${usedPrefix}iqtest_
-┣ ඬ⃟👾 _${usedPrefix}kpopitzy_
-┣ ඬ⃟👾 _${usedPrefix}navidad_
-┣ ඬ⃟👾 _${usedPrefix}loli_
-┣ ඬ⃟👾 _${usedPrefix}gawrgura_
-┣ ඬ⃟👾 _${usedPrefix}miku_
-┣ ඬ⃟👾 _${usedPrefix}nyan_
-┣ ඬ⃟👾 _${usedPrefix}pat_
-┣ ඬ⃟👾 _${usedPrefix}itachi_
-┣ ඬ⃟👾 _${usedPrefix}slap_
-┣ ඬ⃟👾️ _${usedPrefix}pat_
-┣ ඬ⃟👾 _${usedPrefix}perfil_
-┣ ඬ⃟👾 _${usedPrefix}scan_
-┣ ඬ⃟👾 _${usedPrefix}kpop_
-┣ ඬ⃟👾 _${usedPrefix}qr_
-┣ ඬ⃟👾 _${usedPrefix}afk_
-┣ ඬ⃟👾 _${usedPrefix}CristianoRonaldo_
-┣ ඬ⃟👾 _${usedPrefix}pregunta_
-┣ ඬ⃟👾 _${usedPrefix}mention_
-┣ ඬ⃟👾 _${usedPrefix}spamchat_
-┣ ඬ⃟👾 _${usedPrefix}traducir es_
-┣ ඬ⃟👾 _${usedPrefix}zodiac_
-┣ ඬ⃟👾 _${usedPrefix}readmore_
-┣ ඬ⃟👾 _${usedPrefix}calc_ 
-┣ ඬ⃟👾 _${usedPrefix}spamwa_
-┣ ඬ⃟👾 _${usedPrefix}readqr_
-┣ ඬ⃟👾 _${usedPrefix}anime_
-┣ ඬ⃟👾 _${usedPrefix}subirestado_
-┣ ඬ⃟🔞 _${usedPrefix}labiblia_
-┣ ඬ⃟🎤 _${usedPrefix}bass_
-┣ ඬ⃟🎤 _${usedPrefix}deep_
-┣ ඬ⃟🎤 _${usedPrefix}earrape_
-┣ ඬ⃟🎤 _${usedPrefix}fast_
-┣ ඬ⃟🎤 _${usedPrefix}fat_
-┣ ඬ⃟🎤 _${usedPrefix}nightcore_
-┣ ඬ⃟🎤 _${usedPrefix}reverse_
-┣ ඬ⃟🎤 _${usedPrefix}robot_
-┣ ඬ⃟🎤 _${usedPrefix}slow_
-┣ ඬ⃟🎤 _${usedPrefix}smooth_
-┣ ඬ⃟🎤 _${usedPrefix}vibracion_
-┣ ඬ⃟🔊 _${usedPrefix}menu2_
-┣ ඬ⃟🔊 _${usedPrefix}menuaudios_
-┣ ඬ⃟📳 _${usedPrefix}start_
-┣ ඬ⃟📳 _${usedPrefix}next_
-┣ ඬ⃟📳 _${usedPrefix}leave_
-┣ ඬ⃟🏷 _${usedPrefix}stop_
-┣ ඬ⃟🏷 _${usedPrefix}jadibot_
-┣ ඬ⃟🏷 _${usedPrefix}getcode_
-┣ ඬ⃟📝️ _${usedPrefix}logos_ 
-┣ ඬ⃟📝️ _${usedPrefix}lolice_
-┣ ඬ⃟📝️ _${usedPrefix}simpcard_
-┣ ඬ⃟📝️ _${usedPrefix}hornycard_ 
-┣ ඬ⃟📝️ _${usedPrefix}lblackpink_
-┣ ඬ⃟📝️ _${usedPrefix}coffe_
-┣ ඬ⃟📝️ _${usedPrefix}tahta_
-┣ ඬ⃟📝️ _${usedPrefix}nulis_
-┣ ඬ⃟📝️ _${usedPrefix}nulis2_
-┣ ඬ⃟📝️ _${usedPrefix}lolice_
-┣ ඬ⃟📝️ _${usedPrefix}simpcard_
-┣ ඬ⃟📝️ _${usedPrefix}logotaza_ 
-┣ ඬ⃟📝️ _${usedPrefix}logocesped_ 
-┣ ඬ⃟📝️ _${usedPrefix}logotaza2_ 
-┣ ඬ⃟📝️ _${usedPrefix}flaming_ 
-┣ ඬ⃟📝️ _${usedPrefix}logofire_
-┣ ඬ⃟📝️ _${usedPrefix}logosky_
-┣ ඬ⃟📝️ _${usedPrefix}logocorazon_
-┣ ඬ⃟📝️ _${usedPrefix}logorandom_
-┣ ඬ⃟📝️ _${usedPrefix}neonfire_ 
-┣ ඬ⃟📝️ _${usedPrefix}technology_ 
-┣ ඬ⃟📝️ _${usedPrefix}playa_ 
-┣ ඬ⃟📝️ _${usedPrefix}ytcomment_ 
-┣ ඬ⃟📝️ _${usedPrefix}lovemessages_
-┣ ඬ⃟📝️ _${usedPrefix}cementerio_
-┣ ඬ⃟📝️ _${usedPrefix}romanticdouble_
-┣ ඬ⃟📝️ _${usedPrefix}romanticmessages_
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+═════════════════════
+      *ℂℝ𝔼𝔸𝔻𝕆ℝ*
 
+╠ ඬ⃟👻 _${usedPrefix}owner_
+
+═════════════════════
+      *𝕋𝕆ℙ'𝕊 /*
+╠ 🎖️ ${usedPrefix}top10gays
+╠ 🎖️ ${usedPrefix}toplind@s
+╠ 🎖️ ${usedPrefix}topput@s
+╠ 🎖️ ${usedPrefix}toppajer@s
+╠ 🎖️ ${usedPrefix}topotakus
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+═════════════════════
+     *𝕁𝕌𝔼𝔾𝕆𝕊*
+╠ 🕹 _${usedPrefix}math *modo*_
+╠ 🎮 _${usedPrefix}ttt *nombre del la sala*_
+╠ 🕹 _${usedPrefix}delttt *nombre del la sala*_
+╠ 🎮 _${usedPrefix}2gay *@tag*_
+╠ 🕹 _${usedPrefix}gay *@tag / nombre*_
+╠ 🎮 _${usedPrefix}lesbi *@tag / nombre*_
+╠ 🕹 _${usedPrefix}pajero *@tag / nombre*_
+╠ 🎮 _${usedPrefix}pajera *@tag / nombre*_
+╠ 🕹 _${usedPrefix}puta *@tag / nombre*_
+╠ 🎮 _${usedPrefix}puto *@tag / nombre*_
+╠ 🕹 _${usedPrefix}rata *@tag / nombre*_
+╠ 🎮 _${usedPrefix}manco *@tag / nombre*_
+╠ 🕹 _${usedPrefix}manca *@tag / nombre*_
+╠ 🎮 _${usedPrefix}formarpareja_
+╠ 🕹 _${usedPrefix}dado_
+╠ 🎮 _${usedPrefix}simsimi *texto*_
+╠ 🕹 _${usedPrefix}formartrio_
+╠ 🎮 _${usedPrefix}love *@tag / nombre*_
+╠ 🕹 _${usedPrefix}amigorandom_
+╠ 🎮 _${usedPrefix}slot *cantidad*_
+╠ 🕹 _${usedPrefix}ppt *piedra / papel / tijera*_
+╠ 🎮 _${usedPrefix}prostituta *@tag / nombre*_
+╠ 🕹 _${usedPrefix}prostituto *@tag / nombre*_
+╠ 🎮 _${usedPrefix}doxear *@tag / nombre*_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+════════════════════
+   *𝔻𝔼𝔸ℂ𝔸ℝ𝔾𝔸𝕊*
+╠ 📥 _${usedPrefix}imagen *texto*_
+╠ 📥 _${usedPrefix}ytsearch *texto*_
+╠ 📥 _${usedPrefix}dlaudio *link yt*_
+╠ 📥 _${usedPrefix}dlvid *link yt*_
+╠ 📥 _${usedPrefix}ytmp3 *link yt*_
+╠ 📥 _${usedPrefix}ytmp4 *link yt*_
+╠ 📥 _${usedPrefix}ytmp3.2 *link yt*_
+╠ 📥 _${usedPrefix}ytmp4.2 *link yt*_
+╠ 📥 _${usedPrefix}play *titulo del audio*_
+╠ 📥 _${usedPrefix}play.1 *titulo del audio*_
+╠ 📥 _${usedPrefix}play2 *titulo del video*_
+╠ 📥 _${usedPrefix}play.2 *titulo del video*_
+╠ 📥 _${usedPrefix}play3 *titulo del audio/video*_
+╠ 📥 _${usedPrefix}play4 *titulo del video*_
+╠ 📥 _${usedPrefix}letra *nombredelacanción*_
+╠ 📥 _${usedPrefix}google *texto*_
+╠ 📥 _${usedPrefix}googlef *texto*_
+╠ 📥 _${usedPrefix}wikipedia *palabra clave*_
+╠ 📥 _${usedPrefix}pinterestvideo *link de pinterest*_
+╠ 📥 _${usedPrefix}tiktok *link*_
+╠ 📥 _${usedPrefix}acortar *link*_
+╠ 📥 _${usedPrefix}pinterest *texto*_
+╠ 📥 _${usedPrefix}xnxx *link de xnxx*_
+╠ 📥 _${usedPrefix}xnxxsearch *texto*_
+╠ 📥 _${usedPrefix}ssweb *link*_
+╠ 📥 _${usedPrefix}igstory *username*_
+╠ 📥 _${usedPrefix}igstalk *username*_
+╠ 📥 _${usedPrefix}animeinfo *nombre del anime*_
+╠ 📥 _${usedPrefix}twvid *link de video de twitter*_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+════════════════════
+    *𝔾𝔼𝕊𝕋𝕀𝕆ℕ 𝔻𝔼 𝔾ℝ𝕌ℙ𝕆𝕊* 
+╠ 💎 _${usedPrefix}admins *texto*_ 
+╠ 💎 _${usedPrefix}añadir *numero*_ 
+╠ 💎 _${usedPrefix}sacar @tag_
+╠ 💎 _${usedPrefix}save *@tag + nombre de contacto*_
+╠ 💎 _${usedPrefix}daradmin *@tag*_
+╠ 💎 _${usedPrefix}quitaradmin *@tag*_
+╠ 💎 _${usedPrefix}grupo *abrir / cerrar*_
+╠ 💎 _${usedPrefix}enable nsfw_
+╠ 💎 _${usedPrefix}disable nsfw_
+╠ 💎 _${usedPrefix}enable welcome_
+╠ 💎 _${usedPrefix}disable welcome_
+╠ 💎 _${usedPrefix}enable antilink_
+╠ 💎 _${usedPrefix}disable antilink_
+╠ 💎 _${usedPrefix}enable antilink2_
+╠ 💎 _${usedPrefix}disable antilink2_
+╠ 💎 _${usedPrefix}enable delete_
+╠ 💎 _${usedPrefix}disable  delete_ 
+╠ 💎 _${usedPrefix}link_
+╠ 💎 _${usedPrefix}notificar *texto*_
+╠ 💎 _${usedPrefix}setname *Nuevo nombre del grupo*_
+╠ 💎 _${usedPrefix}setdesc *Nueva descripción del grupo*_
+╠ 💎 _${usedPrefix}infogrupo_
+╠ 💎 _${usedPrefix}invocar *texto*_
+╠ 💎 _${usedPrefix}del *responder a un mensaje del bot*_
+╠ 💎 _${usedPrefix}fantasmas_
+╠ 💎 _${usedPrefix}banchat_
+╠ 💎 _${usedPrefix}unbanchat_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+═════════════════════
+       *ℂℝ𝔼𝔸𝔻𝕆ℝ𝔼𝕊*
+╠ 🧧 _${usedPrefix}s_
+╠ 🧧 _${usedPrefix}sticker_
+╠ 🧧 _${usedPrefix}semoji_
+╠ 🧧 _${usedPrefix}wasted_
+╠ 🧧 _${usedPrefix}stonks_
+╠ 🧧 _${usedPrefix}trash_
+╠ 🧧 _${usedPrefix}rainbow_
+╠ 🧧 _${usedPrefix}circle_
+╠ 🧧 _${usedPrefix}trigger_
+╠ 🧧 _${usedPrefix}stickermaker_
+╠ 🧧 _${usedPrefix}attp *texto*_
+╠ 🧧 _${usedPrefix}style *texto*_
+╠ 🧧 _${usedPrefix}attp2 *texto*_
+╠ 🧧 _${usedPrefix}stickerfilter_
+╠ 🧧 _${usedPrefix}trigger *@tag*_
+╠ 🧧 _${usedPrefix}mp3 *responde a un video*_
+╠ 🧧 _${usedPrefix}img *responde a un sticker*_
+╠ 🧧 _${usedPrefix}blur *responde a una imagen*_
+╠ 🧧 _${usedPrefix}swm *link de imagen de google*_
+╠ 🧧 _${usedPrefix}gif *responde a un sticker/video*_
+╠ 🧧 _${usedPrefix}tovideo *responde a una nota de voz*_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+═════════════════════
+ *ℝ𝔸ℕ𝔻𝕆𝕄 / 𝔼𝕏𝕋ℝ𝔸𝕊*
+╠ ඬ⃟👾 _${usedPrefix}frase_
+╠ ඬ⃟👾 _${usedPrefix}futbol_
+╠ ඬ⃟👾 _${usedPrefix}Messi_
+╠ ඬ⃟👾 _${usedPrefix}animal_
+╠ ඬ⃟👾 _${usedPrefix}meme_
+╠ ඬ⃟👾 _${usedPrefix}meme2_
+╠ ඬ⃟👾 _${usedPrefix}meme3_
+╠ ඬ⃟👾 _${usedPrefix}cat_
+╠ ඬ⃟👾 _${usedPrefix}dog_
+╠ ඬ⃟👾 _${usedPrefix}pikachu_
+╠ ඬ⃟👾 _${usedPrefix}waifu_
+╠ ඬ⃟👾 _${usedPrefix}blackpink_
+╠ ඬ⃟👾 _${usedPrefix}reto_
+╠ ඬ⃟👾 _${usedPrefix}verdad_
+╠ ඬ⃟👾 _${usedPrefix}imagenrandom_
+╠ ඬ⃟👾 _${usedPrefix}neko_
+╠ ඬ⃟👾 _${usedPrefix}lolivid_
+╠ ඬ⃟👾 _${usedPrefix}iqtest_
+╠ ඬ⃟👾 _${usedPrefix}kpopitzy_
+╠ ඬ⃟👾 _${usedPrefix}navidad_
+╠ ඬ⃟👾 _${usedPrefix}loli_
+╠ ඬ⃟👾 _${usedPrefix}gawrgura_
+╠ ඬ⃟👾 _${usedPrefix}miku_
+╠ ඬ⃟👾 _${usedPrefix}nyan_
+╠ ඬ⃟👾 _${usedPrefix}pat_
+╠ ඬ⃟👾 _${usedPrefix}itachi_
+╠ ඬ⃟👾 _${usedPrefix}slap_
+╠ ඬ⃟👾️ _${usedPrefix}pat_
+╠ ඬ⃟👾 _${usedPrefix}perfil_
+╠ ඬ⃟👾 _${usedPrefix}scan_
+╠ ඬ⃟👾 _${usedPrefix}kpop_
+╠ ඬ⃟👾 _${usedPrefix}qr *texto*_
+╠ ඬ⃟👾 _${usedPrefix}afk *motivo*_
+╠ ඬ⃟👾 _${usedPrefix}CristianoRonaldo_
+╠ ඬ⃟👾 _${usedPrefix}pregunta *pregunta*_
+╠ ඬ⃟👾 _${usedPrefix}mention *texto*_
+╠ ඬ⃟👾 _${usedPrefix}spamchat *texto*_
+╠ ඬ⃟👾 _${usedPrefix}traducir es *texto*_
+╠ ඬ⃟👾 _${usedPrefix}zodiac *AAAA MM DD*_
+╠ ඬ⃟👾 _${usedPrefix}readmore *texto1| texto2*_
+╠ _${usedPrefix}calc *expresión matemática*_ 
+╠ _${usedPrefix}spamwa *numero|texto|cantidad*_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+═════════════════════
+ *ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 +18*
+╠ Usar bajo su responsabilidad 
+╠ ඬ⃟🔞 _${usedPrefix}labiblia_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+═════════════════════
+*𝔼𝔽𝔼ℂ𝕋𝕆𝕊- ℕ𝕆𝕋𝔸𝕊 𝔻𝔼 𝕍𝕆ℤ* 
+*𝕐 𝔸𝕌𝔻𝕀𝕆𝕊*
+Responde a un audio o nota de voz
+╠ 🎤 _${usedPrefix}bass_
+╠ 🎤 _${usedPrefix}deep_
+╠ 🎤 _${usedPrefix}earrape_
+╠ 🎤 _${usedPrefix}fast_
+╠ 🎤 _${usedPrefix}fat_
+╠ 🎤 _${usedPrefix}nightcore_
+╠ 🎤 _${usedPrefix}reverse_
+╠ 🎤 _${usedPrefix}robot_
+╠ 🎤 _${usedPrefix}slow_
+╠ 🎤 _${usedPrefix}smooth_
+╠ 🎤 _${usedPrefix}vibracion *cantidad*_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+═════════════════════
+     *𝔸𝕌𝔻𝕀𝕆𝕊* 
+╠ ඬ⃟🔊 _${usedPrefix}menuaudios_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+═════════════════════
+  *ℂℍ𝔸𝕋 𝔸ℕ𝕆ℕ𝕀𝕄𝕆*
+╠ ඬ⃟📳 _${usedPrefix}start_
+╠ ඬ⃟📳 _${usedPrefix}next_
+╠ ඬ⃟📳 _${usedPrefix}leave_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+═════════════════════
+ *𝕃𝕆𝔾𝕆𝕊 ℙ𝔼ℝ𝕊𝕆ℕ𝔸𝕃𝕀ℤ𝔸𝔻𝕆𝕊*
+╠ ඬ⃟📝️ _${usedPrefix}logos_ (lista)
+╠ ඬ⃟📝️ _${usedPrefix}lolice_
+╠ ඬ⃟📝️ _${usedPrefix}simpcard_
+╠ ඬ⃟📝️ _${usedPrefix}hornycard_ 
+╠ ඬ⃟📝️ _${usedPrefix}lblackpink_
+╠ ඬ⃟📝️ _${usedPrefix}coffe *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}tahta *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}nulis *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}nulis2 *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}lolice *@tag*_
+╠ ඬ⃟📝️ _${usedPrefix}simpcard *@tag*_
+╠ ඬ⃟📝️ _${usedPrefix}logotaza *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}logocesped *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}logotaza2 *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}flaming *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}logofire *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}logosky *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}logocorazon *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}logorandom *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}neonfire *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}technology *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}playa *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}ytcomment *texto*_ 
+╠ ඬ⃟📝️ _${usedPrefix}lovemessages *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}cementerio *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}romanticdouble *texto*_
+╠ ඬ⃟📝️ _${usedPrefix}romanticmessages *texto*_
+
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+════════════════════
+ 
+    *𝔻 𝕀 𝕆 𝕊 𝔼 𝕊*
+╠ ඬ⃟👑 _${usedPrefix}boost_
+╠ ඬ⃟👑 _${usedPrefix}restart_
+╠ ඬ⃟👑 _${usedPrefix}banlist_
+╠ ඬ⃟👑 _${usedPrefix}binario1_
+╠ ඬ⃟👑 _${usedPrefix}binario2_
+╠ ඬ⃟👑 _${usedPrefix}banchat2_
+╠ ඬ⃟👑 _${usedPrefix}actualizar_
+╠ ඬ⃟👑 _${usedPrefix}CajaFuerte_
+╠ ඬ⃟👑 _${usedPrefix}unbanchat2_
+╠ ඬ⃟👑 _${usedPrefix}bc *texto*_
+╠ ඬ⃟👑 _${usedPrefix}deletechat_
+╠ ඬ⃟👑 _${usedPrefix}mutechat_
+╠ ඬ⃟👑 _${usedPrefix}bcgc *texto*_
+╠ ඬ⃟👑 _${usedPrefix}bcbot *texto*_
+╠ ඬ⃟👑 _${usedPrefix}mutechat *all*_
+╠ ඬ⃟👑 _${usedPrefix}setbye *@tag*_
+╠ ඬ⃟👑 _${usedPrefix}banuser *@tag*_
+╠ ඬ⃟👑 _${usedPrefix}deletechat *all*_
+╠ ඬ⃟👑 _${usedPrefix}mutechat *chat*_
+╠ ඬ⃟👑 _${usedPrefix}mutechat *group*_
+╠ ඬ⃟👑 _${usedPrefix}enable *public*_
+╠ ඬ⃟👑 _${usedPrefix}disable *public*_
+╠ ඬ⃟👑 _${usedPrefix}deletechat *chat*_
+╠ ඬ⃟👑 _${usedPrefix}deletechat *group*_
+╠ ඬ⃟👑 _${usedPrefix}unbanuser *@tag*_
+┣ ඬ⃟👑 _${usedPrefix}listgroup *@tag*_
+╠ ඬ⃟👑 _${usedPrefix}enable *restrict*_
+╠ ඬ⃟👑 _${usedPrefix}enable *autoread*_
+╠ ඬ⃟👑 _${usedPrefix}setwelcome *@tag*_
+╠ ඬ⃟👑 _${usedPrefix}enable *autoread*_
+╠ ඬ⃟👑 _${usedPrefix}disable *autoread*_
 ║▌│█║▌│ █║▌│█│║▌║
 
-⬧⃤ ✘  ƛ Ʀ Є Ƨ  ✘⬧⃤  
+⬧⃤   *ᴳᵒᵈ🅐̣̣̣ 🅡̣̣̣ 🅔̣̣̣ 🅢̣̣̣࿐*  ⬧⃤  
 `.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
